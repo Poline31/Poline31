@@ -14,3 +14,130 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">🛡️ My Cybersecurity Learning Journey</h1>
+
+<p align="center">
+  <strong>Self-taught | TryHackMe | SOC Fundamentals | Blue Team | Threat Intelligence</strong>
+</p>
+
+---
+
+## 📘 About This Repository
+This repository documents my self-learning progress in **cybersecurity**.  
+I use platforms like **TryHackMe**, labs, and online materials to build real practical skills.
+
+I learn independently at home and working as SOC Analyst T1 (had also practise as SOC coordinator and quality specialist) — and this repo is proof of my commitment, consistency, and growing experience.
+---
+
+---
+
+## 💼 Professional Experience
+
+### **Security Analyst T1**  
+
+- Monitor and analyze security events as part of a SOC Tier 1 team.  
+- Acted as **SOC Coordinator T1**, overseeing team operations and quality of incident handling.  
+- Developed a **self-automated tool in Excel** to verify the accuracy of team tickets, using **ServiceNow (SNOW)**, pivot tables, and formulas to streamline workflow.  
+- Conducted quality checks, optimized team processes, and created dashboards to track KPIs.  
+- Coordinated incident response procedures and ensured proper escalation and documentation.
+
+**Key Skills:** SOC operations, Security Monitoring, Ticket Quality Assurance, Automation (Excel, SNOW), Process Improvement, Coordination, Reporting.
+
+---
+
+### **Senior Specialist**  
+
+- Collected, processed, and analyzed data from multiple sources, including media and OSINT.  
+- Conducted research on Russian propaganda and disinformation campaigns.  
+- Created clear and actionable reports using **Excel** and **PowerPoint**.  
+- Managed large datasets, performed statistical analysis, and visualized trends.  
+- Developed insights to support decision-making and strategic assessments.  
+
+**Key Skills:** Data Collection, OSINT, Media Monitoring, Data Analysis, Excel, PowerPoint, Report Writing, Threat Intelligence.
+
+---
+
+## 🚀 Current Focus Areas
+- 🧩 Security Fundamentals  
+- 🌐 Networking & Protocols  
+- 🔎 Digital Forensics  
+- 🛡️ SOC & SIEM (Sentinel, XDR, Logs)  
+- 🔥 Pentesting Basics  
+- 🕸️ Web Application Security  
+- 🎣 Phishing & Threat Intelligence  
+
+---
+
+## 🏆 TryHackMe Learning Progress
+
+Below are the rooms I completed — notes are available inside the **/tryhackme** folder:
+
+### 🔐 Security & Offensive Basics
+- [Offensive Security Intro](tryhackme/01-offensive-security-intro.md)
+- [Pentesting Fundamentals](tryhackme/05-pentesting-fundamentals.md)
+- [Principles of Security](tryhackme/04-principles-of-security.md)
+
+### 🌐 Networking & Protocols
+- [Introductory Networking](tryhackme/08-introductory-networking.md)
+- [DNS in Detail](tryhackme/06-dns-in-detail.md)
+- [HTTP in Detail](tryhackme/07-http-in-detail.md)
+
+### 🔎 Digital Forensics & Logs
+- [Intro to Digital Forensics](tryhackme/03-intro-to-digital-forensics.md)
+- [Intro to Logs](tryhackme/12-intro-to-logs.md)
+- [Log Operations](tryhackme/13-log-operations.md)
+
+### 🛡️ SOC, SIEM & XDR
+- [MS Sentinel: Introduction](tryhackme/14-ms-sentinel-introduction.md)
+- [KQL Introduction](tryhackme/15-kql-introduction.md)
+- [KQL Basic Queries](tryhackme/16-kql-basic-queries.md)
+- [XDR Introduction](tryhackme/17-xdr-introduction.md)
+
+### 🎣 Threat Intelligence & Phishing Analysis
+- [Intro to Cyber Threat Intel](tryhackme/09-intro-to-cyber-threat-intel.md)
+- [Phishing Analysis Fundamentals](tryhackme/10-phishing-analysis-fundamentals.md)
+- [Threat Intelligence Tools](tryhackme/11-threat-intelligence-tools.md)
+- [Phishing Emails in Action](tryhackme/18-phishing-emails-in-action.md)
+
+---
+
+## 🧰 Tools & Technologies I Work With
+| Category | Tools |
+|---------|-------|
+| 🕵️ SOC / SIEM | Microsoft Sentinel, XDR, McAfee ESM |
+| 🔎 Forensics | log analysis |
+| 🧪 Pentesting | Burp Suite (labs), Nmap (basics), HTTP analysis |
+| 🌐 Networking | DNS tools, WHOIS, basic packet analysis |
+| 🎣 Threat Intel | VirusTotal, URLScan, AbuseIPDB, OSINT basics |
+
+---
+
+## 🏅 Professional Certifications
+
+- 🔐 **CompTIA Security+ (Sec+)**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/CompTIA_logo.svg" alt="CompTIA" width="40"/>  
+
+- 🧭 **ITIL Foundation Certificate in IT Service Management**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/ITIL_logo.svg" alt="ITIL" width="40"/>
+
+- 🌐 **Cisco Certified Network Associate (CCNAv7)**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco" width="40"/>
+
+- - ![Cisco](https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo.svg) **CCNA v7 – Cisco Certified Network Associate**
+---
+
+## 🌍 Language Certifications (NATO STANAG)
+
+- 🇬🇧 **English — NATO STANAG 6001 Level 3**  
+
+- 🇷🇺 **Russian — NATO STANAG 6001 Level 4**  
+
+---
+
+## 📫 Contact
+If you're a recruiter or cyber professional — feel free to reach out!  
+https://www.linkedin.com/in/paulina-wrzesinska-670151244/
+
+---
