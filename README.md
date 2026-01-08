@@ -72,34 +72,7 @@ I learn independently at home and working as SOC Analyst T1 (had also practise a
 
 ## 🏆 TryHackMe Learning Progress
 
-Below are the rooms I completed — notes are available inside the **/tryhackme** folder:
-
-### 🔐 Security & Offensive Basics
-- [Offensive Security Intro](tryhackme/01-offensive-security-intro.md)
-- [Pentesting Fundamentals](tryhackme/05-pentesting-fundamentals.md)
-- [Principles of Security](tryhackme/04-principles-of-security.md)
-
-### 🌐 Networking & Protocols
-- [Introductory Networking](tryhackme/08-introductory-networking.md)
-- [DNS in Detail](tryhackme/06-dns-in-detail.md)
-- [HTTP in Detail](tryhackme/07-http-in-detail.md)
-
-### 🔎 Digital Forensics & Logs
-- [Intro to Digital Forensics](tryhackme/03-intro-to-digital-forensics.md)
-- [Intro to Logs](tryhackme/12-intro-to-logs.md)
-- [Log Operations](tryhackme/13-log-operations.md)
-
-### 🛡️ SOC, SIEM & XDR
-- [MS Sentinel: Introduction](tryhackme/14-ms-sentinel-introduction.md)
-- [KQL Introduction](tryhackme/15-kql-introduction.md)
-- [KQL Basic Queries](tryhackme/16-kql-basic-queries.md)
-- [XDR Introduction](tryhackme/17-xdr-introduction.md)
-
-### 🎣 Threat Intelligence & Phishing Analysis
-- [Intro to Cyber Threat Intel](tryhackme/09-intro-to-cyber-threat-intel.md)
-- [Phishing Analysis Fundamentals](tryhackme/10-phishing-analysis-fundamentals.md)
-- [Threat Intelligence Tools](tryhackme/11-threat-intelligence-tools.md)
-- [Phishing Emails in Action](tryhackme/18-phishing-emails-in-action.md)
+The rooms I completed — notes are available inside the **/tryhackme** folder
 
 ---
 
