@@ -106,13 +106,22 @@ The rooms I completed — notes are available inside the **/tryhackme** folder
 
 ---
 
-## 📝 Case Studies
+## 📚 My Case Studies & Labs
 
-Here are my cybersecurity analyses and case studies:
+Welcome to my portfolio of **Threat Intelligence and Cybersecurity projects**.  
+Here you'll find detailed case studies, analyses, and hands-on labs demonstrating my skills in TI, OSINT, and process automation.
 
-- [WhisperGate Case Study](https://github.com/Poline31/My-case-studies/tree/main/WhisperGate-case-study) – Analysis of destructive malware targeting Ukraine, including timeline, MITRE ATT&CK mapping, and IoCs.
-- [Quality Automation Case Study](https://github.com/Poline31/My-case-studies/tree/main/Process-Automation-Case-Study%20) – Automation process for quality of SOC team
-- [Information-Influence-Disinformation-Analysis](https://github.com/Poline31/My-case-studies/tree/main/Information-Influence-Disinformation-Analysis) - look into dissinformation campaings 
+### 🔍 Case Studies
+
+- **[WhisperGate Case Study](https://github.com/Poline31/WhisperGate-case-study)** – Analysis of destructive malware targeting Ukrainian organizations in early 2022, including MITRE ATT&CK mapping and timeline assessment.
+- **[Information Influence & Disinformation Analysis](https://github.com/Poline31/Information-Influence-Disinformation-Analysis)** – Research on disinformation campaigns and influence operations.
+- **[Process Automation Case Study](https://github.com/Poline31/Process-Automation-Case-Study)** – Review of workflow improvement and automation strategies.
+
+### 🖥 Labs on TryHackMe & courses & notes
+
+💡 **[Poline Cyber Journey](https://github.com/Poline31/poline-cyber-journey)** – A collection of hands-on cybersecurity labs and exercises designed to reinforce TI and cybersecurity concepts.  
+
+---
 
 ## 📫 Contact
 If you're a recruiter or cyber professional — feel free to reach out!  
