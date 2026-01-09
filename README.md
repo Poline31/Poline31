@@ -106,6 +106,14 @@ The rooms I completed — notes are available inside the **/tryhackme** folder
 
 ---
 
+## 📝 Case Studies
+
+Here are my cybersecurity analyses and case studies:
+
+- [WhisperGate Case Study](https://github.com/Poline31/My-case-studies/tree/main/WhisperGate-case-study) – Analysis of destructive malware targeting Ukraine, including timeline, MITRE ATT&CK mapping, and IoCs.
+- [Quality Automation Case Study](https://github.com/Poline31/My-case-studies/tree/main/Process-Automation-Case-Study%20) – Automation process for quality of SOC team
+- [Information-Influence-Disinformation-Analysis](https://github.com/Poline31/My-case-studies/tree/main/Information-Influence-Disinformation-Analysis) - look into dissinformation campaings 
+
 ## 📫 Contact
 If you're a recruiter or cyber professional — feel free to reach out!  
 https://www.linkedin.com/in/paulina-wrzesinska-670151244/
