@@ -113,7 +113,7 @@ Here you'll find detailed case studies, analyses, and hands-on labs demonstratin
 
 ### 🔍 Case Studies
 
-- **[WhisperGate Case Study](https://github.com/Poline31/WhisperGate-case-study)** – Analysis of destructive malware targeting Ukrainian organizations in early 2022, including MITRE ATT&CK mapping and timeline assessment.
+- **[WhisperGate Case Study](https://github.com/Poline31/My-case-studies/tree/main/WhisperGate-case-study)** – Analysis of destructive malware targeting Ukrainian organizations in early 2022, including MITRE ATT&CK mapping and timeline assessment.
 - **[Information Influence & Disinformation Analysis](https://github.com/Poline31/Information-Influence-Disinformation-Analysis)** – Research on disinformation campaigns and influence operations.
 - **[Process Automation Case Study](https://github.com/Poline31/Process-Automation-Case-Study)** – Review of workflow improvement and automation strategies.
 
