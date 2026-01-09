@@ -60,13 +60,11 @@ I learn independently at home and working as SOC Analyst T1 (had also practise a
 ---
 
 ## 🚀 Current Focus Areas
-- 🧩 Security Fundamentals  
-- 🌐 Networking & Protocols  
-- 🔎 Digital Forensics  
-- 🛡️ SOC & SIEM (Sentinel, XDR, Logs)  
-- 🔥 Pentesting Basics  
-- 🕸️ Web Application Security  
-- 🎣 Phishing & Threat Intelligence  
+
+- 🛡️ SOC & SIEM (Sentinel, Mcafee, Logs, Splunk)  
+- 🔥 Linux
+- 🕸️ Phishing
+- 🎣 Threat Intelligence  
 
 ---
 
@@ -81,9 +79,8 @@ The rooms I completed — notes are available inside the **/tryhackme** folder
 |---------|-------|
 | 🕵️ SOC / SIEM | Microsoft Sentinel, XDR, McAfee ESM |
 | 🔎 Forensics | log analysis |
-| 🧪 Pentesting | Burp Suite (labs), Nmap (basics), HTTP analysis |
 | 🌐 Networking | DNS tools, WHOIS, basic packet analysis |
-| 🎣 Threat Intel | VirusTotal, URLScan, AbuseIPDB, OSINT basics |
+| 🎣 Threat Intel | VirusTotal, URLScan, AbuseIPDB, OSINT basics, MITRE |
 
 ---
 
