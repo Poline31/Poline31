@@ -39,11 +39,11 @@ I learn independently at home and working as SOC Analyst T1 (had also practise a
 
 - Monitor and analyze security events as part of a SOC Tier 1 team.  
 - Acted as **SOC Coordinator T1**, overseeing team operations and quality of incident handling.  
-- Developed a **self-automated tool in Excel** to verify the accuracy of team tickets, using **ServiceNow (SNOW)**, pivot tables, and formulas to streamline workflow.  
+- Developed a **self-automated tool in Excel** to verify the accuracy of team tickets, using **ticketing system**, pivot tables, and formulas to streamline workflow.  
 - Conducted quality checks, optimized team processes, and created dashboards to track KPIs.  
 - Coordinated incident response procedures and ensured proper escalation and documentation.
 
-**Key Skills:** SOC operations, Security Monitoring, Ticket Quality Assurance, Automation (Excel, SNOW), Process Improvement, Coordination, Reporting.
+**Key Skills:** SOC operations, Security Monitoring, Ticket Quality Assurance, Automation (Excel, ticketing system), Process Improvement, Coordination, Reporting.
 
 ---
 
