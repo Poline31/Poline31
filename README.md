@@ -94,8 +94,6 @@ The rooms I completed — notes are available inside the **/tryhackme** folder
 
 - 🌐 **Cisco Certified Network Associate (CCNAv7)**  
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco" width="40"/>
-
-- - ![Cisco](https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo.svg) **CCNA v7 – Cisco Certified Network Associate**
 ---
 
 ## 🌍 Language Certifications (NATO STANAG)
