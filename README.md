@@ -61,7 +61,7 @@ I learn independently at home and working as SOC Analyst T1 (had also practise a
 
 ## 🚀 Current Focus Areas
 
-- 🛡️ SOC & SIEM (Sentinel, Mcafee, Logs, Splunk)  
+- 🛡️ SOC & SIEM (Sentinel, Trellix, Splunk)  
 - 🔥 Linux
 - 🕸️ Phishing
 - 🎣 Threat Intelligence  
@@ -77,10 +77,10 @@ The rooms I completed — notes are available inside the **/tryhackme** folder
 ## 🧰 Tools & Technologies I Work With
 | Category | Tools |
 |---------|-------|
-| 🕵️ SOC / SIEM | Microsoft Sentinel, XDR, McAfee ESM |
+| 🕵️ SOC / SIEM | Microsoft Sentinel, Trellix, Splunk |
 | 🔎 Forensics | log analysis |
 | 🌐 Networking | DNS tools, WHOIS, basic packet analysis |
-| 🎣 Threat Intel | VirusTotal, URLScan, AbuseIPDB, OSINT basics, MITRE |
+| 🎣 Threat Intel | VirusTotal, URLScan, AbuseIPDB, OSINT basics, MITRE, MISP |
 
 ---
 
@@ -108,14 +108,12 @@ The rooms I completed — notes are available inside the **/tryhackme** folder
 
 ## 📚 My Case Studies & Labs
 
-Welcome to my portfolio of **Threat Intelligence and Cybersecurity projects**.  
-Here you'll find detailed case studies, analyses, and hands-on labs demonstrating my skills in TI, OSINT, and process automation.
-
-### 🔍 Case Studies
-
-- **[WhisperGate Case Study](https://github.com/Poline31/My-case-studies/tree/main/WhisperGate-case-study)** – Analysis of destructive malware targeting Ukrainian organizations in early 2022, including MITRE ATT&CK mapping and timeline assessment.
-- **[Information Influence & Disinformation Analysis](https://github.com/Poline31/My-case-studies/tree/main/Information-Influence-Disinformation-Analysis)** – Research on disinformation campaigns and influence operations.
-- **[Process Automation Case Study](https://github.com/Poline31/My-case-studies/tree/main/Process-Automation-Case-Study%20)** – Review of workflow improvement and automation strategies.
+- **[WhisperGate,Information Influence & Disinformation Analysis, Process Automation, Stuxnet and other](https://github.com/Poline31/My-case-studies)**
+- Analysis of destructive malware (whisperGate) targeting Ukrainian organizations in early 2022
+- Research on disinformation campaigns and influence operations (After Ukraine - Lithuania and Poland seem to be the most threatend)
+- Review of workflow improvement and automation strategies (cannot public "know-how" as it is created for employer)
+- Analysis of first known cyber weapon - Stuxnet
+- other
 
 ### 🖥 Labs on TryHackMe & courses & notes
 
