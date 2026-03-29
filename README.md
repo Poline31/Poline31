@@ -108,7 +108,7 @@ The rooms I completed — notes are available inside the **/tryhackme** folder
 
 ## 📚 My Case Studies & Labs
 
-- **[WhisperGate,Information Influence & Disinformation Analysis, Process Automation, Stuxnet and other](https://github.com/Poline31/My-case-studies)**
+**[WhisperGate,Information Influence & Disinformation Analysis, Process Automation, Stuxnet and other](https://github.com/Poline31/My-case-studies)**
 - Analysis of destructive malware (whisperGate) targeting Ukrainian organizations in early 2022
 - Research on disinformation campaigns and influence operations (After Ukraine - Lithuania and Poland seem to be the most threatend)
 - Review of workflow improvement and automation strategies (cannot public "know-how" as it is created for employer)
