@@ -92,7 +92,7 @@ The rooms I completed — notes are available inside the **/tryhackme** folder
 - 🧭 **ITIL Foundation Certificate in IT Service Management**  
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/ITIL_logo.svg" alt="ITIL" width="40"/>
 
-- 🌐 **Cisco Certified Network Associate (CCNAv7)**  
+- 🌐 **Cisco Certified Network Associate (CCNAv7)**  (course)
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco" width="40"/>
 ---
 
