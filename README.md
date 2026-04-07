@@ -65,7 +65,7 @@ I learn independently at home and working as SOC Analyst T1 (had also practise a
 - 🔥 Linux
 - 🕸️ Phishing
 - 🎣 Threat Intelligence  
-
+- 🏆 Preparing for BTL1 and Microsoft SC-200: Microsoft Security Operations Analyst
 ---
 
 ## 🏆 TryHackMe Learning Progress
