@@ -104,11 +104,7 @@ The rooms I completed — notes are available inside the **/tryhackme** folder
 ---
 
 ## 📚 My Case Studies & Labs
-**
 
-**[Private Project Cyber Threat Intelligence Tracker – Critical Infrastructure Attacks Against Poland, Ukraine, Lithuania, Latvia, Estonia & Romania](
-
-## 📚 My Case Studies & Labs
 **[Own Project – Cyber Threat & Disinformation Tracker: Ukraine, Poland, Lithuania, Estonia, Romania, Latvia Targets](https://github.com/Poline31/My-case-studies)**
 - Ongoing OSINT collection from multiple sources tracking cyberattacks targeting critical infrastructure across Poland, Ukraine, Lithuania, Latvia, Estonia, and Romania
 - Structured data maintained in Excel, transformed and modeled in Power BI to produce statistics, trend charts, and interactive dashboards (attack types, threat actors, timelines, targeted sectors)
